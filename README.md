@@ -2,9 +2,9 @@
 
 🔭 &nbsp; Working at an outsourcing company
 
-🏥 &nbsp; Working on an app that will improve public health here in the PH
+📶 &nbsp; Working on an app for an up and coming Telco here in the PH at [@stratpoint](https://stratpoint.com/)
 
-📶 &nbsp; Working on an app for an up and coming Telco here in the PH
+🏥 &nbsp; Working on an app that will improve public health here in the PH at [@innovationsch](https://innovationsch.org/)
 
 🌱 &nbsp; Currently learning Product Management
 
