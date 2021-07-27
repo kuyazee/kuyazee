@@ -18,7 +18,7 @@
 
 ⚡ &nbsp; Fun fact: I stream on evenings a few times a week on [twitch](https://twitch.tv/tempuratempest/)
 
-💼 &nbsp; Ex [@mClinica](http://mclinica.com/) software engineer
+💼 &nbsp; Ex [@mClinica](http://mclinica.com/) software engineer (2016-2019)
 
 #### Find me at 
 
