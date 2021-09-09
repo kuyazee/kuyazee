@@ -8,7 +8,7 @@
 
 🌱 &nbsp; Currently learning Product Management
 
-🇵🇭 &nbsp; Volunteering in tech communities in the Philippines
+🇵🇭 &nbsp; Volunteering in tech communities in the Philippines at [@flutterph](https://flutter.ph/) and [@swiftph](https://swift.ph/), join us!
 
 👯 &nbsp; Looking to collaborate on exciting projects that will help the public.
 
@@ -17,6 +17,8 @@
 😄 &nbsp; Pronouns: he/him/his
 
 ⚡ &nbsp; Fun fact: I stream on evenings a few times a week on [twitch](https://twitch.tv/tempuratempest/)
+
+⚡ &nbsp; Fun fact: I enjoy building stuff such as Gunpla and Mechanical Keyboards, see my [IG](https://www.instagram.com/kuyazee.archive/)
 
 💼 &nbsp; Ex [@mClinica](http://mclinica.com/) software engineer (2016-2019)
 
