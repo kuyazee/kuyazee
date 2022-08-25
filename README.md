@@ -20,6 +20,10 @@
 
 ⚡ &nbsp; Fun fact: I enjoy building stuff such as Gunpla and Mechanical Keyboards, see my [IG](https://www.instagram.com/kuyazee.archive/)
 
+💼 &nbsp; Maintains [Gomo PH](https://www.gomo.ph/) Feb 2021-Present
+
+💼 &nbsp; Worked on [GlobeAtHome](https://www.globe.com.ph/help/broadband.html) Jan 2020-Feb 2021
+
 💼 &nbsp; Ex [@mClinica](http://mclinica.com/) software engineer (2016-Dec 2019)
 
 #### Find me at 
