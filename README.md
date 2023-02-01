@@ -32,6 +32,6 @@
 
 **LinkedIn**: https://www.linkedin.com/in/zonilyjame/
 
-**Website**: https://kuyazee.github.io/
+**Website**: https://zonilyjame.dev
 
-**Email**: zonilyjame.work@gmail.com
+**Email**: hello@zonilyjame.dev
