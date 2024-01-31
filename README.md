@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 &nbsp; Head of Mobile Development at [@stratpoint](https://stratpoint.com/) (Jan 2020-Present) 
+🔭 &nbsp; Building Apps and Development Teams as Head of Mobile Development at [@stratpoint](https://stratpoint.com/) (Jan 2020-Present) 
 
 🏥 &nbsp; Working on an app that for public health in the PH at [@innovationsch](https://innovationsch.org/) (Nov 2020-Present)
 
