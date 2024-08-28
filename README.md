@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-📆 &nbsp; Over 30+ applications built and/or maintained over my 8+ years of experience across several industries
+📆 &nbsp; Over **30+ applications** built and/or maintained over my 8+ years of experience across several industries
 
 🔭 &nbsp; Building Apps and Development Teams as Head of Mobile Development at [@stratpoint](https://stratpoint.com/) (Jan 2020-Present) 
 
 🏥 &nbsp; Working on an app that for public health in the PH at [@innovationsch](https://innovationsch.org/) (Nov 2020-Present)
 
-🏪 &nbsp; Working on an e-commerce Shopify app for [Shop Suki](https://shopsuki.ph/) and [KCC Malls](https://kccmalls.com/) (May 2022-Present)
+🏪 &nbsp; Working on some e-commerce Shopify apps for [Shop Suki](https://shopsuki.ph/) and [KCC Malls](https://kccmalls.com/) (May 2022-Present)
 
 🌱 &nbsp; Currently learning Product Management, Google Cloud, and React Native
 
