@@ -26,14 +26,15 @@
 
 💼 &nbsp; Working on [MyShiftManager](https://manager.myshiftplanner.com/)
 
-
 💼 &nbsp; Ex [@stratpoint](https://stratpoint.com/) software architect (Jan 2020-July 2025)
-  - &nbsp; [Cebu Pacific iOS](https://www.cebupacificair.com/) Sep 2024-July 2025
-  - &nbsp; [Gomo PH](https://www.gomo.ph/) Feb 2021-Apr 2023
-  - &nbsp; [GlobeAtHome](https://www.globe.com.ph/help/broadband.html) Jan 2020-Feb 2021
+  - [Cebu Pacific iOS](https://www.cebupacificair.com/) Sep 2024-July 2025
+  - [Gomo PH](https://www.gomo.ph/) Feb 2021-Apr 2023
+  - [GlobeAtHome](https://www.globe.com.ph/help/broadband.html) Jan 2020-Feb 2021
   - and several others
 
 💼 &nbsp; Ex [@mClinica](http://mclinica.com/) software engineer (2016-Dec 2019)
+  - SwipeRx
+  - Connect Platform (and several other Connect Apps)
 
 #### Find me at 
 
