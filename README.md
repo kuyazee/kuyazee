@@ -22,6 +22,10 @@
 
 💼 &nbsp; Working on [Shop Suki](https://shopsuki.ph/)
 
+💼 &nbsp; Working on [Nirmy](https://www.nirmy.app/)
+
+💼 &nbsp; Working on [MyShiftManager](https://manager.myshiftplanner.com/)
+
 💼 &nbsp; Worked on [Cebu Pacific iOS](https://www.cebupacificair.com/) Sep 2024-July 2025
 
 💼 &nbsp; Worked on [Gomo PH](https://www.gomo.ph/) Feb 2021-Apr 2023
