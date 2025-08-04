@@ -2,7 +2,9 @@
 
 📆 &nbsp; Over **30+ applications** built and/or maintained over my 8+ years of experience across several industries
 
-🔭 &nbsp; Building Apps and Development Teams as Head of Mobile Development at [@stratpoint](https://stratpoint.com/) (Jan 2020-Present) 
+🚧 &nbsp; Started work at a new venture, details to follow.... (July 2025-Present)
+
+🔭 &nbsp; Built Apps and Development Teams as Head of Mobile Development at [@stratpoint](https://stratpoint.com/) (Jan 2020-July 2025) 
 
 🏥 &nbsp; Working on an app that for public health in the PH at [@innovationsch](https://innovationsch.org/) (Nov 2020-Present)
 
@@ -17,6 +19,10 @@
 💬 &nbsp; Ask me about Mobile development using (Flutter, Swift, and Kotlin)
 
 ⚡ &nbsp; Fun fact: I enjoy building stuff such as Gunpla and Mechanical Keyboards, see my [IG](https://www.instagram.com/kuyazee.archive/)
+
+💼 &nbsp; Working on [Shop Suki](https://shopsuki.ph/)
+
+💼 &nbsp; Worked on [Cebu Pacific iOS](https://www.cebupacificair.com/) Sep 2024-July 2025
 
 💼 &nbsp; Worked on [Gomo PH](https://www.gomo.ph/) Feb 2021-Apr 2023
 
