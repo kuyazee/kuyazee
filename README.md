@@ -18,13 +18,11 @@
 
 💬 &nbsp; Ask me about Mobile development using (Flutter, Swift, and Kotlin)
 
-⚡ &nbsp; Fun fact: I enjoy building stuff such as Gunpla and Mechanical Keyboards, see my [IG](https://www.instagram.com/kuyazee.archive/)
+💼 &nbsp; Working on [Smitten(https://smitten.fun/)
 
 💼 &nbsp; Working on [Shop Suki](https://shopsuki.ph/)
 
-💼 &nbsp; Working on [Nirmy](https://www.nirmy.app/)
-
-💼 &nbsp; Working on [MyShiftManager](https://manager.myshiftplanner.com/)
+💼 &nbsp; Working on [MyShiftManager](https://myshiftmanager.online/)
 
 💼 &nbsp; Ex [@stratpoint](https://stratpoint.com/) software architect (Jan 2020-July 2025)
   - [Cebu Pacific iOS](https://www.cebupacificair.com/) Sep 2024-July 2025
