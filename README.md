@@ -18,7 +18,7 @@
 
 💬 &nbsp; Ask me about Mobile development using (Flutter, Swift, and Kotlin)
 
-💼 &nbsp; Working on [Smitten(https://smitten.fun/)
+💼 &nbsp; Working on [Smitten](https://smitten.fun/)
 
 💼 &nbsp; Working on [Shop Suki](https://shopsuki.ph/)
 
